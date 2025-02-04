@@ -1,7 +1,6 @@
 ---
 title: "Multiclass-SGCN: Sparse Graph-based Trajectory Prediction with Agent Class Embedding"
 collection: publications
-permalink: /publication/2022-06-30-Multiclass-SGCN
 excerpt: 'This paper is related to trajectory prediction for multiclass agents.'
 date: 2022-06-30
 venue: 'ICIP'
