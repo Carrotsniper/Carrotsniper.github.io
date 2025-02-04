@@ -5,7 +5,7 @@ date: 2022-06-30
 venue: 'ICIP'
 paperurl: 'https://arxiv.org/pdf/2206.15275'
 ---
-![Overview of Multiclass-SGCN](../images/Multiclass-SGCN.png)
+![Overview of Multiclass-SGCN](images/Multiclass-SGCN.png)
 
 [Download paper here](https://arxiv.org/abs/2206.15275)
 
