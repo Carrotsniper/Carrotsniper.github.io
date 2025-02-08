@@ -3,14 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
+  - title: "Research&Teaching Experience"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Software"
-    url: /software/
+  - title: "Project"
+    url: /Project/
 
   - title: "Posts"
     url: /posts/
