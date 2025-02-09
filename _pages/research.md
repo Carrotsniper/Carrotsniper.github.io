@@ -3,33 +3,26 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
+# header:
+#   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My research is primarily focused on harnessing the power of deep learning and machine learning algorithms to address real-world challenges. By leveraging advanced techniques such as graph neural networks (GNNs) and time-series modeling, my work provides innovative solutions in the analysis of pedestrian and vehicle trajectory predictions, as well as human motion analysis. These areas demand extensive spatial-temporal analysis to understand and predict dynamic behaviors effectively.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+**Spatial Modeling**
+From the spatial modeling perspective, my research is dedicated to developing graph-based architectures that represent diverse data sets, including pedestrians, vehicles, and human skeletal structures. Utilizing cutting-edge GNN algorithms, I strive to elucidate the intricate relationships within this data, facilitating more accurate predictions and richer analytical insights. The application of graph-based approaches allows for a nuanced understanding of spatial interactions that traditional methods might overlook.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
 
-<nbsp>
+**Temporal Modeling**
+Regarding temporal modeling, my work involves employing recurrent neural networks (RNNs), Temporal Convolutional Networks (TCNs), and Transformers to model temporal dependencies accurately. This aspect of my research is crucial for predicting future states and behaviors by analyzing how patterns evolve over time, providing a robust framework for temporal analysis in motion-related datasets.
+
+
+**Broader Applications**
+Beyond these specific applications, I am also deeply interested in the broader implications of spatial-temporal modeling across various domains such as finance, meteorology, and power systems. My commitment to expanding the application of these models drives me to regularly engage with and contribute to top-tier conferences and journals, staying at the forefront of emerging trends and open-source initiatives in these fields.
+
+
+
+<!-- <nbsp>
 
 {% include base_path %}
 
@@ -37,4 +30,4 @@ into the early stages of radicalization.
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
