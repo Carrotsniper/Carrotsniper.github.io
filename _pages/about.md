@@ -14,8 +14,7 @@ Prior to Durham University, I obtained a Bachelor of Science in **Computer Scien
 Outside of my research, I am passionate about music—playing the piano, guitar, and singing—and I enjoy sports like snooker, football, and badminton.
 
 
-I am also enthusiastic about participating in teaching activities at the university:
-**Teaching(Demonstration)**
+I am also enthusiastic about participating in teaching (demonstration) activities at the university for the following modules:
 * Postgraduate Module: Text Mining and Language Analytics
 * Postgraduate Module: Learning from Data
 * Postgraduate Module: Programming for Data Science
