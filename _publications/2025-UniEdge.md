@@ -7,6 +7,8 @@ venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: '/files/pdf/research/uniedge.pdf'
 link: 'https://arxiv.org/abs/2502.02504'
 github: 'https://github.com/Carrotsniper/UniEdge'
+image: '/images/publications/UniEdge.png'
+
 
 
 citation: '@article{li2025unified,
