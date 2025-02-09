@@ -1,6 +1,4 @@
----
----
-
+--- ---
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -41,3 +39,15 @@
 @import "print";
 
 @import "custom";
+
+.publication-image {
+    max-width: 600px;
+    margin: 1em 0;
+}
+
+.publication-image img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
