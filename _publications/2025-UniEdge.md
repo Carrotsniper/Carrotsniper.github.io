@@ -8,16 +8,10 @@ paperurl: '/files/pdf/research/uniedge.pdf'
 link: 'https://arxiv.org/abs/2502.02504'
 
 
-citation: 
-```bibtex
-@inproceedings{li22multiclasssgcn,
- author={Li, Ruochen and Katsigiannis, Stamos and Shum, Hubert P. H.},
- booktitle={Proceedings of the 2022 IEEE International Conference on Image Processing},
- series={ICIP '22},
- title={Multiclass-SGCN: Sparse Graph-based Trajectory Prediction with Agent Class Embedding},
- year={2022},
- publisher={IEEE},
- location={Bordeaux, France},
-}
-```
+citation: '@article{li2025unified,
+  title={Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction},
+  author={Li, Ruochen and Qiao, Tanqiu and Katsigiannis, Stamos and Zhu, Zhanxing and Shum, Hubert PH},
+  journal={arXiv preprint arXiv:2502.02504},
+  year={2025}
+}'
 ---
