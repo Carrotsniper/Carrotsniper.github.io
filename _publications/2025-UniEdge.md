@@ -6,6 +6,7 @@ date: 2025-02-07
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 paperurl: '/files/pdf/research/uniedge.pdf'
 link: 'https://arxiv.org/abs/2502.02504'
+github: 'https://github.com/Carrotsniper/UniEdge'
 
 
 citation: '@article{li2025unified,
