@@ -7,14 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my page 👏, I am a PhD candidate (2021-now) in the Department of Computer Science at [Durham University (UK)](https://www.dur.ac.uk/departments/academic/computer-science/), supervised by Prof. [Hubert P. H. Shum](http://hubertshum.com/) and Dr. [Stamos Katsigiannis](https://www.durham.ac.uk/staff/stamos-katsigiannis/). My primary interests are deep learning, machine learning, and data analysis. Specifically, I utilize time-series analysis and graph neural network (GNN) techniques to address challenges in pedestrian and vehicle trajectory prediction, as well as human motion recognition in real-world scenarios. 
 
-Prior to Durham University, I obtained a Bachelor of Science in **Computer Science with Artificial Intelligence** (2016-2019) and a Master of Science in **Advanced Computer Science (Data Analytics)** (2019-2020) from the [University of Leeds](https://www.leeds.ac.uk/). I am deeply interested in the applications of time-series and spatial-temporal modeling in real-world scenarios, and I am committed to exploring cutting-edge research in these areas.
+Welcome! I am a data scientist applying machine learning tools and causal
+inference techniques to remote sensing data. I am an affiliated
+researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
+and a research collaborator with the 
+[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-Outside of my research, I am passionate about music—playing the piano, guitar, and singing—and I enjoy sports like snooker, football, and badminton.
-
-<!-- {% include clustrmap.html %} -->
-
-
-
-
+I earned my PhD in Political Science from the
+[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
+BA in Political Science from [Haverford College](https://www.haverford.edu).
+My academic work has been [published](publications) in the
+*American Political Science Review*, *International Studies Quarterly*,
+*Conflict Management and Peace Science*, and
+*Political Science Research and Methods*, among other outlets. This
+[research](research) explores the causes and consequences of political violence
+using a broad variety of methods such as latent variable models, geospatial
+analysis, and big data. I have [taught](teaching) quantitative methodology and
+international relations, and am a certified instructor with
+[The Carpentries](https://carpentries.org).

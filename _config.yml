@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruochen Li"
+title                    : "Rob Williams"
 title_separator          : "-"
-name                     : &name "Ruochen Li"
+name                     : &name "Rob Williams"
 description              : &description "Postdoc in Political Science"
-url                      : https://carrotsniper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Carrotsniper/Carrotsniper.github.io"
+repository               : "jayrobwilliams/jayrobwilliams.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,16 +84,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruochen(Rory) Li"
-  avatar           : "Ruochen_Li.png"
-  bio              : "PhD candidate in Durham University"
-  location         : "Durham, UK"
+  name             : "Rob Williams"
+  avatar           : "profile.png"
+  bio              : "Data Scientist"
+  location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-8966-9613"
-  googlescholar    : "https://scholar.google.com/citations?user=UMqzACAAAAAJ&hl=en"
-  email            : "sc16rl@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ruochen-Li-11?ev=hdr_xprf"
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "rob.williams@wustl.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,21 +101,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Carrotsniper"
-  gitlab           : 
+  github           : "jayrobwilliams"
+  gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ruochen-li-b8b45b1b6/"
-  mastodon         : 
+  linkedin         :
+  mastodon         : "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : "https://x.com/RuochenLi6"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -260,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
