@@ -7,6 +7,7 @@ venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: '/files/pdf/research/Multiclass-SGCN.pdf'
 link: 'https://arxiv.org/abs/2206.15275'
 github: 'https://github.com/Carrotsniper/Multiclass-SGCN'
+image: '/images/publications/Multiclass-SGCN.png'
 
 citation: '@inproceedings{li2022multiclass,
   title={Multiclass-SGCN: Sparse Graph-based trajectory prediction with agent class embedding},
