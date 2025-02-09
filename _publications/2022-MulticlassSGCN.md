@@ -1,5 +1,5 @@
 ---
-title: "Multiclass-SGCN: Sparse Graph-based trajectory prediction with agent class embedding"
+title: "Multiclass-SGCN: Sparse Graph-based trajectory prediction with agent class embedding (ICIP 2022)"
 collection: publications
 permalink: /publication/2022-MulticlassSGCN
 date: 2022-10-16
