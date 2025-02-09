@@ -13,8 +13,7 @@ Prior to Durham University, I obtained a Bachelor of Science in **Computer Scien
 
 Outside of my research, I am passionate about music—playing the piano, guitar, and singing—and I enjoy sports like snooker, football, and badminton.
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=mj-KicVrkMB-8BI8MFNIdsXhNVlSR5uSCiUrtFV-cxI'></script>
+{% include clustrmap.html %}
 
 
 
