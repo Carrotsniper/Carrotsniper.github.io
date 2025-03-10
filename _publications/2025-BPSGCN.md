@@ -1,5 +1,5 @@
 ---
-title: "BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction"
+title: "BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction (IEEE TNNLS 2025)"
 collection: publications
 permalink: /publication/2025-BPSGCN
 date: 2025-02-18
